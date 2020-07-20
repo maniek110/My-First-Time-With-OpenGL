@@ -105,7 +105,7 @@ void makeRays() {
 			mx = (int)rx >> 6;
 			my = (int)ry >> 6;
 			mp = my * mapX + mx;
-			if (mp>0 && mp < mapX * mapY && map[mp] == 1)dof = 8;
+			if (mp>0 && mp < mapX * mapY && map[mp] > 0)dof = 8;
 			else {
 				rx += xO;
 				ry += yO;
@@ -113,6 +113,7 @@ void makeRays() {
 			}
 		}
 		if (calcDist(rx, ry) < rayDist) {
+			//glColor3f(0.9, 0, 0);
 			rayx = rx;
 			rayy = ry;
 			rayDist = calcDist(rx, ry);
@@ -145,7 +146,7 @@ void makeRays() {
 			mx = (int)rx >> 6;
 			my = (int)ry >> 6;
 			mp = my * mapX + mx;
-			if (mp > 0 && mp < mapX * mapY && map[mp] == 1)dof = 8;
+			if (mp > 0 && mp < mapX * mapY && map[mp] > 0)dof = 8;
 			else {
 				rx += xO;
 				ry += yO;
@@ -153,6 +154,7 @@ void makeRays() {
 			}
 		}
 		if (calcDist(rx, ry) < rayDist) {
+			//glColor3f(0.6, 0, 0);
 			rayx = rx;
 			rayy = ry;
 			rayDist = calcDist(rx, ry);
@@ -166,6 +168,17 @@ void makeRays() {
 		glVertex2i(rayx, rayy);
 		glEnd();
 		//draw 3d walls
+		float lineHeight = (size * 512) / wallDistance;
+		if (lineHeight > 512)lineHeight = 512;
+		float lineOffset = 256 - lineHeight / 2;
+		glColor3f(0, 0, (lineHeight/512));
+		glLineWidth(8);
+		glBegin(GL_LINES);
+		glVertex2i(i*8+520, lineOffset);
+		glVertex2i(i * 8 + 520, lineHeight+lineOffset);
+		glEnd();
+
+
 		ra += dr;
 		if (ra < 0) ra += 2 * pi;
 		if (ra > 2 * pi) ra -= 2 * pi;

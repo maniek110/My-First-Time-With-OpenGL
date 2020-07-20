@@ -1,28 +1,30 @@
 ﻿  RayCasting.cpp
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(39,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(39,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(45,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(45,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(46,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(46,15): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(78,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(79,26): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(80,29): warning C4305: '-=': truncation from 'double' to 'float'
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(87,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(93,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(125,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(132,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(162,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(162,14): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(163,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(163,14): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(165,11): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(166,27): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(167,32): warning C4305: '-=': truncation from 'double' to 'float'
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(173,15): warning C4305: '-=': truncation from 'double' to 'float'
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(174,32): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(179,15): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(180,37): warning C4305: '-=': truncation from 'double' to 'float'
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(200,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\marci\Desktop\C++\RayCasting\RayCasting\RayCasting\RayCasting.cpp(216,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
-  RayCasting.vcxproj -> C:\Users\marci\Desktop\C++\RayCasting\RayCasting\Debug\RayCasting.exe
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(40,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(40,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(46,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(46,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(47,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(47,15): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(79,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(80,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(81,29): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(88,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(94,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(128,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(135,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(167,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(167,14): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(168,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(168,14): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(177,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(178,37): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(182,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(183,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(184,32): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(190,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(191,32): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(196,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(197,37): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(217,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\RayCasting\RayCasting.cpp(233,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  RayCasting.vcxproj -> C:\Users\marci\Desktop\C++\RayCasting\My-First-Time-With-OpenGL\RayCasting\Debug\RayCasting.exe
